@@ -1,6 +1,37 @@
 # ✨ Aura AI - Sentiment Analysis Dashboard
 
+<div align="center">
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aura-aigit.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aura--AI-blue?logo=github)](https://github.com/Spurthi-019/Aura-AI)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+### 🚀 **[LIVE DEPLOYED APP](https://aura-aigit.streamlit.app/)** ← Click Here to Use Now!
+
+</div>
+
 A beautiful, modern **Streamlit web application** for real-time sentiment analysis using **TextBlob**. Analyze the emotional tone of any text with an elegant neon-styled dashboard.
+
+---
+
+## 🌐 Quick Links
+
+| 🚀 Try Live | 📖 Documentation | 💻 Source Code |
+|:---:|:---:|:---:|
+| [![Open in Streamlit](https://img.shields.io/badge/Open%20in%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://aura-aigit.streamlit.app/) | [Full Docs](#-resources) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spurthi-019/Aura-AI) |
+
+---
+
+## ✨ Key Highlights
+
+- 🎨 **Neon Dark Theme** with glowing effects
+- ⚡ **Instant Deployment** - Already live on Streamlit Cloud
+- 📊 **Real-time Analysis** - See results immediately
+- 🔒 **Production Ready** - Clean code, no secrets exposed
+- 📱 **Responsive Design** - Works on desktop and mobile
+
+---
 
 ## 🌐 Live Demo
 
@@ -59,6 +90,12 @@ textblob
 
 ## 🚀 Getting Started
 
+> **💡 TIP**: No need to install anything! [**Use the live deployed version**](https://aura-aigit.streamlit.app/) right now!
+
+### Run Locally (Optional)
+
+If you want to run the app locally for development or customization:
+
 ### Prerequisites
 - Python 3.8 or higher
 - pip (Python package manager)
@@ -84,7 +121,12 @@ textblob
 
 ---
 
-## ▶️ Running Locally
+## ▶️ Running the App
+
+### Option 1: Use the Live Deployed Version (Recommended) ⭐
+Simply visit: [**https://aura-aigit.streamlit.app/**](https://aura-aigit.streamlit.app/)
+
+### Option 2: Run Locally
 
 ```bash
 streamlit run app.py
